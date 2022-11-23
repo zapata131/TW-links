@@ -4,40 +4,58 @@ layout: default
 
 # Technical Writing links
 
-A simple page with useful resources for Technical Writers.
+A simple page with useful resources for Technical Writers. [Contribute and learn
+about the project](/about).
 
-## Usage
+Note that these resources focus on technical writing in the software space.
 
-You can use this theme with [Jekyll](http://jekyllrb.com/) or you can simply use it with [Github Pages](https://pages.github.com).
-For local usage just download [Jekyll](http://jekyllrb.com/), use installation guide for more. You can download latest Biscuit from [its Github repository](https://github.com/sblisesivdin/biscuit).
+---
 
-If you prefer to use Github Pages, you do not need to download it, upload files to a new repository...etc., just [fork](https://docs.github.com/en/get-starter/quickstart/fork-a-repo) and use it.
+## Blogs
 
-### Files
+- [I'd Rather be Writing](https://idratherbewriting.com/): Written by Tom
+  Johnson, a technical writer working at Google. He has interesting post series
+  about different topics related to technical writing.
+- [Passo Uno](https://passo.uno/): Written by Fabrizio Ferri Benedetti, a
+  technical and UX writer that works for Splunk. His posts vary from editorial
+  pieces to in-depth discussions about the current state of technical writing.
 
-* `_config.yml`            : Main configuration file.
-* `index.md`               : Website page (for now, this page).
-* `_includes/head.html`    : File to add custom code to `<head>` section.
-* `_includes/scripts.html` : File to add custom code before `</body>`. You can change footer at here.
-* `_sass` folder           : Related scss files can be found at this folder.
-* `css/main.csss`          : Main scss file.
-* `README.md`              : A simple readme file.
+## Books
 
-## Example tag usage
+- [Docs like Code](https://smile.amazon.com/Docs-Like-Code-Anne-Gentle-ebook/dp/B08KY82ZSB/)
+by Anne Gentle.
+- [Modern Technical Writing: An Introduction to Software Documentation](https://smile.amazon.com/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS/)
+by Andrew Etter.
+- [The Product is Docs](https://smile.amazon.com/Product-Docs-technical-documentation-development-ebook/dp/B085KHTV95)
+by Christopher Gales and the Splunk Documentation Team.
 
-## Header 1
-### Header 2
-#### Header 3
-**bold**
-*italic*
+## Courses
 
-> blockquotes
+- [Documenting APIs: A guide for technical writers and engineers](https://idratherbewriting.com/learnapidoc/): A course
+by Tom Johnson, the same author of the I'd Rather be Writing blog. A full guide to learn everything you need to know
+about REST APIs, documenting endpoints, using the OPEN API spec, and more.
+- [Google's Technical writing courses](https://developers.google.com/tech-writing/overview): Four courses about the
+basis of technical writing, including writing for accesibility and writing error messages.
 
-~~~python
-import os,time
-print ("Biscuit")
-~~~
+## Videos
 
-## Licence and Author Information
+- [How to write the perfect error message](https://www.youtube.com/watch?v=hzCfl8CGJuw):
+  By James Scott for Write the Docs Prague.
+- [Minimum Viable Documentation for RESTful APIs](https://www.youtube.com/watch?v=E3YesNMUx1o):
+  Talk by Mike Jang for API the Docs 2020.
+- [Treating Documentation like Code: a Practical Account](https://www.youtube.com/watch?v=Mzu-c-FoOdw):
+  By Jodie Putrino for Write the Docs Portland 2017.
+- [Beyond spell checking - what else can we check automatically?](https://www.youtube.com/watch?v=8NukYx5ggCM)
+by Tony Ibbs. Interesting way to automate
 
-Learn more [about this page](/about) or [contribute to the project](https://github.com/zapata131/TW-links).
+## Other resources
+
+- [Google developer documentation style guide](https://developers.google.com/style/): A comple style guide for technical writers. Highly suggested if you are a solo writer or starting a technical writing team. (Don't reinvent the wheel.)
+- [Merriam-Webster.com]: For all your spelling needs.
+
+---
+
+Note: All links to the books are Amazon Smile links that support non-profits
+around the world.
+
+---

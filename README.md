@@ -20,5 +20,6 @@ You can contribute to this repository by forking it, modifing the
   * `_includes/scripts.html` : File to add custom code before `</body>`. You can change footer at here.
   * `_sass` folder           : Related scss files can be found at this folder.
   * `css/main.csss`          : Main scss file.
-  * `README.md`              : A simple readme file.
+
+[![cc-by-4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/)
 
