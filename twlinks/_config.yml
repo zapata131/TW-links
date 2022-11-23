@@ -1,0 +1,14 @@
+# Site settings
+title: Technical Writing Links
+tag_text: Technical Writing Links
+description: A simple page with useful resources for Technical Writers.
+# baseurl: "/blog" # the subpath of your site, e.g. /blog
+# url: "https://example.com" # the base hostname & protocol for your site, e.g. http://example.com
+
+plugins:
+  - jekyll-seo-tag
+
+# Build settings
+markdown: kramdown
+sass:
+  style: compressed
