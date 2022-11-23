@@ -50,8 +50,12 @@ by Tony Ibbs. Interesting way to automate
 
 ## Other resources
 
-- [Google developer documentation style guide](https://developers.google.com/style/): A comple style guide for technical writers. Highly suggested if you are a solo writer or starting a technical writing team. (Don't reinvent the wheel.)
+- [Google developer documentation style guide](https://developers.google.com/style/):
+A complete style guide for technical writers. Highly suggested if you are a solo
+writer or starting a technical writing team. (Don't reinvent the wheel.)
 - [Merriam-Webster.com]: For all your spelling needs.
+- [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line):
+Useful if you need to be fluent using the command line in *NIX systems.
 
 ---
 
