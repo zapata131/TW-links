@@ -4,10 +4,10 @@ layout: default
 
 # Technical Writing links
 
-A simple page with useful resources for Technical Writers. [Contribute and learn
-about the project](/about).
+A simple page with useful resources for technical writers in the software
+industry.
 
-Note that these resources focus on technical writing in the software space.
+[Learn more about the project](/about).
 
 ---
 
