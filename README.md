@@ -1,7 +1,7 @@
 # Technical Writing links
 
 A simple page with useful resources for Technical Writers. You can visit it at
-<technicalwriting.link>.
+[technicalwriting.link](https://technicalwriting.link).
 
 This site uses [Jekyll](http://jekyllrb.com/) and the
 [Biscuit](http://sblisesivdin.github.io/biscuit) theme to build the page and
