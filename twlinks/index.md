@@ -22,12 +22,25 @@ Note that these resources focus on technical writing in the software space.
 
 ## Books
 
+Books about technical writing:
+
 - [Docs like Code](https://smile.amazon.com/Docs-Like-Code-Anne-Gentle-ebook/dp/B08KY82ZSB/)
-by Anne Gentle.
+  by Anne Gentle.
 - [Modern Technical Writing: An Introduction to Software Documentation](https://smile.amazon.com/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS/)
-by Andrew Etter.
+  by Andrew Etter.
 - [The Product is Docs](https://smile.amazon.com/Product-Docs-technical-documentation-development-ebook/dp/B085KHTV95)
-by Christopher Gales and the Splunk Documentation Team.
+  by Christopher Gales and the Splunk Documentation Team.
+
+Books about APIs:
+
+- [Web API Design Crafting Interfaces that Developers Love](https://www.academia.edu/11335664/Web_API_Design_Crafting_Interfaces_that_Developers_Love): By Brian Mulloy,
+  this book with a Creative Commons license is a good read if you want to get
+  involved in helping design and document REST APIs.
+
+Books about UX writing:
+- [Strategic Writing for UX](https://smile.amazon.com/Strategic-Writing-Engagement-Conversion-Retention/dp/1492049395/):
+  By Torrey Podmajersky, this book is a good read if you are involved with any
+  UX writing or you want to learn more about the subject.
 
 ## Courses
 
@@ -39,14 +52,15 @@ basis of technical writing, including writing for accesibility and writing error
 
 ## Videos
 
+- [Beyond spell checking - what else can we check automatically?](https://www.youtube.com/watch?v=8NukYx5ggCM):
+  By Tony Ibbs, interesting talk about automation, it has a DocOps approach to
+  technical writing.
 - [How to write the perfect error message](https://www.youtube.com/watch?v=hzCfl8CGJuw):
   By James Scott for Write the Docs Prague.
 - [Minimum Viable Documentation for RESTful APIs](https://www.youtube.com/watch?v=E3YesNMUx1o):
   Talk by Mike Jang for API the Docs 2020.
 - [Treating Documentation like Code: a Practical Account](https://www.youtube.com/watch?v=Mzu-c-FoOdw):
   By Jodie Putrino for Write the Docs Portland 2017.
-- [Beyond spell checking - what else can we check automatically?](https://www.youtube.com/watch?v=8NukYx5ggCM)
-by Tony Ibbs. Interesting way to automate
 
 ## Other resources
 
