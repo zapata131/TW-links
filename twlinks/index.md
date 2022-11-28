@@ -69,10 +69,12 @@ Books about UX writing:
   By Jodie Putrino for Write the Docs Portland 2017.
 
 ## Other resources
+
 - [API the Docs](https://apithedocs.org/): An online conference focusing
   exclusively on API documentation.
 - [Ask me about API docs](https://askmeaboutapis.com/): A unique page written by
-  Clarence William Cromwell that has a set
+  Clarence William Cromwell that has a set of guides and essays, for both
+  developers and technical writers, about writing API documentation.
 - [Google developer documentation style guide](https://developers.google.com/style/):
   A complete style guide for technical writers. Highly suggested if you are a
   solo writer or starting a technical writing team. (Don't reinvent the wheel.)
