@@ -43,4 +43,4 @@ as a technical writer and mentoring me during my time woring at Wizeline.
 [ruby-gems]: https://rubygems.org/gems/jekyll
 [tw-link]: https://technicalwriting.link:
 [jekyll]: http://jekyllrb.com/
-[biscuit] http://sblisesivdin.github.io/biscuit
+[biscuit]: http://sblisesivdin.github.io/biscuit
