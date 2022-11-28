@@ -7,7 +7,7 @@ layout: default
 A simple page with useful resources for technical writers in the software
 industry.
 
-[Learn more about the project](/about).
+[Learn more about the project](/about.html).
 
 ---
 
@@ -19,7 +19,7 @@ industry.
 - [Passo Uno](https://passo.uno/): Written by Fabrizio Ferri Benedetti, a
   technical and UX writer that works for Splunk. His posts vary from editorial
   pieces to in-depth discussions about the current state of technical writing.
-- [This is important](https://thisisimportant.net/) Written by Sarah Moir, a
+- [This is important](https://thisisimportant.net/): Written by Sarah Moir, a
   technical writer at Snowflake. Her unique vision of combining data analysis
   and technical writing, plus the way she guides you through her thinking process
   make this blog an interesting read.
