@@ -4,11 +4,13 @@ title: About
 url: /about
 ---
 
-# [Technical Writing links](/)
+# 🔗 [Technical Writing links](/)
 
 ## About
 
-This is a side project by **José Luis Zapata**. I'm a technical writer that
+Hello! 👋
+
+This is a side project by me, **José Luis Zapata**. I'm a technical writer that
 wants to share interesting resources and wanted to learn a bit about Jekyll.
 
 You can find more about me on my [landing page][zapata-landing] or on
