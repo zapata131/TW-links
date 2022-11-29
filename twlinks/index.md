@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# [Technical Writing links](/)
+# 🔗 [Technical Writing links](/)
 
 A simple page with useful resources for technical writers in the software
 industry.
