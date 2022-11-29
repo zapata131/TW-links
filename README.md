@@ -34,9 +34,9 @@ _TBD_
 
 ## Collaborators
 
-Thanks to Ariel Sánchez, Aarón Martínez, José Antonio Sánchez for their help and
+Thanks to Ariel Sánchez, Aarón Martínez, and José Antonio Sánchez for their help and
 content suggestions. Special thanks to Meeta Gupta for giving me an opportunity
-as a technical writer and mentoring me during my time woring at Wizeline.
+as a technical writer and being a great mentor and friend.
 
 [![cc-by-4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/)
 
