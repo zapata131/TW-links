@@ -37,8 +37,12 @@ Books about technical writing:
 - [The Product is Docs](https://smile.amazon.com/Product-Docs-technical-documentation-development-ebook/dp/B085KHTV95/ref=technicalwriting.link)
   by Christopher Gales and the Splunk Documentation Team.
 
-**Note:** To learn more about some of these books, you can read the [Three books to boost your technical writing career](https://bufferbuffer.com/three-books-to-boost-your-technical-writing-career/)
-post.
+---
+
+_Note: To learn more about some of these books, you can read the [Three books to boost your technical writing career](https://bufferbuffer.com/three-books-to-boost-your-technical-writing-career/)
+post._
+
+---
 
 Books about APIs:
 
