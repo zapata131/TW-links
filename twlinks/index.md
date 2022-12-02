@@ -13,10 +13,10 @@ industry.
 
 ## Blogs
 
-- [I'd Rather be Writing](https://idratherbewriting.com/): Written by Tom
-  Johnson, a technical writer at Google. He has interesting post series
+- [I'd Rather be Writing](https://idratherbewriting.com/ref=technicalwriting.link): Written by Tom
+  Johnson, a technical writer working at Google. He has interesting post series
   about different topics related to technical writing.
-- [Passo Uno](https://passo.uno/): Written by Fabrizio Ferri Benedetti, a
+- [Passo Uno](https://passo.uno/ref=technicalwriting.link): Written by Fabrizio Ferri Benedetti, a
   technical and UX writer that works for Splunk. His posts vary from editorial
   pieces to in-depth discussions about the current state of technical writing.
 - [This is important](https://thisisimportant.net/): Written by Sarah Moir, a
@@ -28,16 +28,21 @@ industry.
 
 Books about technical writing:
 
-- [Docs like Code](https://smile.amazon.com/Docs-Like-Code-Anne-Gentle-ebook/dp/B08KY82ZSB/)
+- [Docs like Code](https://smile.amazon.com/Docs-Like-Code-Anne-Gentle-ebook/dp/B08KY82ZSB/ref=technicalwriting.link)
   by Anne Gentle.
-- [Modern Technical Writing: An Introduction to Software Documentation](https://smile.amazon.com/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS/)
+- [Docs for Developers](https://smile.amazon.com/Docs-Developers-Engineers-Technical-Writing-ebook/dp/B09HLZGWKT/ref=technicalwriting.link):
+  by Jared Bhatti, Jen Lambourne, David Nunez, et.al.
+- [Modern Technical Writing: An Introduction to Software Documentation](https://smile.amazon.com/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS/ref=technicalwriting.link)
   by Andrew Etter.
-- [The Product is Docs](https://smile.amazon.com/Product-Docs-technical-documentation-development-ebook/dp/B085KHTV95)
+- [The Product is Docs](https://smile.amazon.com/Product-Docs-technical-documentation-development-ebook/dp/B085KHTV95/ref=technicalwriting.link)
   by Christopher Gales and the Splunk Documentation Team.
+
+**Note:** To learn more about some of these books, you can read the [Three books to boost your technical writing career](https://bufferbuffer.com/three-books-to-boost-your-technical-writing-career/)
+post.
 
 Books about APIs:
 
-- [Web API Design Crafting Interfaces that Developers Love](https://www.academia.edu/11335664/Web_API_Design_Crafting_Interfaces_that_Developers_Love): By Brian Mulloy,
+- [Web API Design Crafting Interfaces that Developers Love](https://www.academia.edu/11335664/Web_API_Design_Crafting_Interfaces_that_Developers_Love/ref=technicalwriting.link): By Brian Mulloy,
   this book with a Creative Commons license is a good read if you want to get
   involved in helping design and document REST APIs.
 
@@ -65,7 +70,7 @@ Books about UX writing:
   By James Scott for Write the Docs Prague. Good for every writer.
 - [Minimum Viable Documentation for RESTful APIs](https://www.youtube.com/watch?v=E3YesNMUx1o):
   Talk by Mike Jang for API the Docs 2020.
-- [Treating Documentation like Code: a Practical Account](https://www.youtube.com/watch?v=Mzu-c-FoOdw):
+- [Treating Documentation like Code: a Practical Account](https://www.youtube.com/watch?v=Mzu-c-FoOdw/ref=technicalwriting.link):
   By Jodie Putrino for Write the Docs Portland 2017.
 
 ## Other resources
