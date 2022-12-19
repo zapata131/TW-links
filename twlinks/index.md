@@ -101,5 +101,3 @@ _Note: All links to the books are Amazon Smile links that support non-profits
 around the world._
 
 ---
-
-[Back to top ⬆](#technical-writing-links)
