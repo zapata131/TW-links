@@ -11,7 +11,7 @@ industry.
 
 ---
 
-## Blogs
+## 📝 Blogs
 
 - [I'd Rather be Writing](https://idratherbewriting.com/ref=technicalwriting.link): Written by Tom
   Johnson, a technical writer working at Google. He has interesting post series
@@ -24,7 +24,7 @@ industry.
   and technical writing, plus the way she guides you through her thinking process
   make this blog an interesting read.
 
-## Books
+## 📚 Books
 
 Books about technical writing:
 
@@ -55,7 +55,7 @@ Books about UX writing:
   By Torrey Podmajersky, this book is a good read if you are involved with UX
   writing or want to learn more about the subject.
 
-## Courses
+## 🎓 Courses
 
 - [Documenting APIs: A guide for technical writers and engineers](https://idratherbewriting.com/learnapidoc/):
   A course by Tom Johnson, the author of the I'd Rather be Writing blog. A
@@ -65,7 +65,7 @@ Books about UX writing:
   Four courses about the basics of technical writing, including writing for
   accessibility and writing error messages.
 
-## Videos
+## 🎥 Videos
 
 - [Beyond spell checking - what else can we check automatically?](https://www.youtube.com/watch?v=8NukYx5ggCM):
   By Tony Ibbs, interesting talk about automation. It has a DocOps approach to
@@ -77,7 +77,7 @@ Books about UX writing:
 - [Treating Documentation like Code: a Practical Account](https://www.youtube.com/watch?v=Mzu-c-FoOdw/ref=technicalwriting.link):
   By Jodie Putrino for Write the Docs Portland 2017.
 
-## Other resources
+## ✨ Other resources
 
 - [API the Docs](https://apithedocs.org/): An online conference focusing
   exclusively on API documentation.
@@ -92,8 +92,8 @@ Books about UX writing:
   Useful if you need to be fluent in using the command line in *NIX systems.
 - [Write the Docs](https://www.writethedocs.org/): "A global community of people
   who care about documentation." They organize an annual conferences in Portland,
-  Prague, and Sydney and meetups across the globe. The page has some interesting
-  resources and a wholesome community in a nice Slack network.
+  Prague, and Sydney, and meetups across the globe. The page has some interesting
+  resources and a wholesome Slack community.
 
 ---
 
