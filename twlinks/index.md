@@ -90,6 +90,9 @@ Books about UX writing:
 - [Merriam-Webster.com](https://merriam-webster.com): For all your spelling needs.
 - [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line):
   Useful if you need to be fluent in using the command line in *NIX systems.
+- [The Good Docs Project](https://thegooddocsproject.com/): Provides
+  best-practice templates and checklists for various types of technical
+  documentation (READMEs, API refs, etc.).
 - [Write the Docs](https://www.writethedocs.org/): "A global community of people
   who care about documentation." They organize an annual conferences in Portland,
   Prague, and Sydney, and meetups across the globe. The page has some interesting
