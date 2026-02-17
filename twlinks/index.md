@@ -11,18 +11,32 @@ industry.
 
 ---
 
-## 📝 Blogs
+## ✨ Essential Resources, Tools & Communities
 
-- [I'd Rather be Writing](https://idratherbewriting.com/ref=technicalwriting.link): Written by Tom
-  Johnson, a technical writer working at Google. He has interesting post series
-  about different topics related to technical writing.
-- [Passo Uno](https://passo.uno/ref=technicalwriting.link): Written by Fabrizio Ferri Benedetti, a
-  technical and UX writer that works for Splunk. His posts vary from editorial
-  pieces to in-depth discussions about the current state of technical writing.
-- [This is important](https://thisisimportant.net/): Written by Sarah Moir, a
-  technical writer at Snowflake. Her unique vision of combining data analysis
-  and technical writing, plus the way she guides you through her thinking process
-  make this blog an interesting read.
+- [API the Docs](https://apithedocs.org/): An online conference focusing
+  exclusively on API documentation.
+- [Ask me about API docs](https://askmeaboutapis.com/): A unique page written by
+  Clarence William Cromwell that has a set of guides and essays, for both
+  developers and technical writers, about writing API documentation.
+- [Google developer documentation style guide](https://developers.google.com/style/):
+  A complete style guide for technical writers. Highly suggested if you are a
+  solo writer or starting a technical writing team. (Don't reinvent the wheel.)
+- [Growth.Design Case Studies](https://growth.design/case-studies): While
+  focused on UX, these "comic book" style case studies are incredible for
+  learning how to write concise, persuasive interface copy.
+- [Merriam-Webster.com](https://merriam-webster.com): For all your spelling needs.
+- [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line):
+  Useful if you need to be fluent in using the command line in *NIX systems.
+- [The Good Docs Project](https://thegooddocsproject.com/): Provides
+  best-practice templates and checklists for various types of technical
+  documentation (READMEs, API refs, etc.).
+- [Vale](https://vale.sh/): An open-source "linter for prose." It allows you to
+  enforce your style guide (like Google or Microsoft) automatically within your
+  code editor.
+- [Write the Docs](https://www.writethedocs.org/): "A global community of people
+  who care about documentation." They organize an annual conferences in Portland,
+  Prague, and Sydney, and meetups across the globe. The page has some interesting
+  resources and a wholesome Slack community.
 
 ## 📚 Books
 
@@ -65,6 +79,22 @@ Books about UX writing:
   Four courses about the basics of technical writing, including writing for
   accessibility and writing error messages.
 
+## 📝 Blogs
+
+- [Every Page is Page One](https://everypageispageone.com/): A blog and book
+  by Mark Baker that challenges traditional linear documentation and teaches
+  how to write for the way users actually search on the web.
+- [I'd Rather be Writing](https://idratherbewriting.com/ref=technicalwriting.link): Written by Tom
+  Johnson, a technical writer working at Google. He has interesting post series
+  about different topics related to technical writing.
+- [Passo Uno](https://passo.uno/ref=technicalwriting.link): Written by Fabrizio Ferri Benedetti, a
+  technical and UX writer that works for Splunk. His posts vary from editorial
+  pieces to in-depth discussions about the current state of technical writing.
+- [This is important](https://thisisimportant.net/): Written by Sarah Moir, a
+  technical writer at Snowflake. Her unique vision of combining data analysis
+  and technical writing, plus the way she guides you through her thinking process
+  make this blog an interesting read.
+
 ## 🎥 Videos
 
 - [Beyond spell checking - what else can we check automatically?](https://www.youtube.com/watch?v=8NukYx5ggCM):
@@ -77,30 +107,4 @@ Books about UX writing:
 - [Treating Documentation like Code: a Practical Account](https://www.youtube.com/watch?v=Mzu-c-FoOdw/ref=technicalwriting.link):
   By Jodie Putrino for Write the Docs Portland 2017.
 
-## ✨ Other resources
 
-- [API the Docs](https://apithedocs.org/): An online conference focusing
-  exclusively on API documentation.
-- [Ask me about API docs](https://askmeaboutapis.com/): A unique page written by
-  Clarence William Cromwell that has a set of guides and essays, for both
-  developers and technical writers, about writing API documentation.
-- [Google developer documentation style guide](https://developers.google.com/style/):
-  A complete style guide for technical writers. Highly suggested if you are a
-  solo writer or starting a technical writing team. (Don't reinvent the wheel.)
-- [Merriam-Webster.com](https://merriam-webster.com): For all your spelling needs.
-- [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line):
-  Useful if you need to be fluent in using the command line in *NIX systems.
-- [The Good Docs Project](https://thegooddocsproject.com/): Provides
-  best-practice templates and checklists for various types of technical
-  documentation (READMEs, API refs, etc.).
-- [Write the Docs](https://www.writethedocs.org/): "A global community of people
-  who care about documentation." They organize an annual conferences in Portland,
-  Prague, and Sydney, and meetups across the globe. The page has some interesting
-  resources and a wholesome Slack community.
-
----
-
-_Note: All links to the books are Amazon Smile links that support non-profits
-around the world._
-
----
