@@ -11,32 +11,38 @@ industry.
 
 ---
 
-## ✨ Essential Resources, Tools & Communities
+## 🛠 Tools & Reference
 
-- [API the Docs](https://apithedocs.org/): An online conference focusing
-  exclusively on API documentation.
-- [Ask me about API docs](https://askmeaboutapis.com/): A unique page written by
-  Clarence William Cromwell that has a set of guides and essays, for both
-  developers and technical writers, about writing API documentation.
 - [Google developer documentation style guide](https://developers.google.com/style/):
   A complete style guide for technical writers. Highly suggested if you are a
   solo writer or starting a technical writing team. (Don't reinvent the wheel.)
-- [Growth.Design Case Studies](https://growth.design/case-studies): While
-  focused on UX, these "comic book" style case studies are incredible for
-  learning how to write concise, persuasive interface copy.
 - [Merriam-Webster.com](https://merriam-webster.com): For all your spelling needs.
-- [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line):
-  Useful if you need to be fluent in using the command line in *NIX systems.
 - [The Good Docs Project](https://thegooddocsproject.com/): Provides
   best-practice templates and checklists for various types of technical
   documentation (READMEs, API refs, etc.).
 - [Vale](https://vale.sh/): An open-source "linter for prose." It allows you to
   enforce your style guide (like Google or Microsoft) automatically within your
   code editor.
+
+## ✨ Communities & Conferences
+
+- [API the Docs](https://apithedocs.org/): An online conference focusing
+  exclusively on API documentation.
 - [Write the Docs](https://www.writethedocs.org/): "A global community of people
   who care about documentation." They organize an annual conferences in Portland,
   Prague, and Sydney, and meetups across the globe. The page has some interesting
   resources and a wholesome Slack community.
+
+## ⚡️ Guides & Case Studies
+
+- [Ask me about API docs](https://askmeaboutapis.com/): A unique page written by
+  Clarence William Cromwell that has a set of guides and essays, for both
+  developers and technical writers, about writing API documentation.
+- [Growth.Design Case Studies](https://growth.design/case-studies): While
+  focused on UX, these "comic book" style case studies are incredible for
+  learning how to write concise, persuasive interface copy.
+- [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line):
+  Useful if you need to be fluent in using the command line in *NIX systems.
 
 ## 📚 Books
 
